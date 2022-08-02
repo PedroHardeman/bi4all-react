@@ -1,4 +1,4 @@
-# Hello! My name is Pedro and this is the react version of the bi4all tech challenge..
+# Hello! My name is Pedro and this is the react version of the bi4all tech challenge.
 
 Tech stack used:
 

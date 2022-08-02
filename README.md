@@ -17,6 +17,7 @@ For running the project you will need:
 - install
 - start the project
 
+This project is still in development, since the challenge was focused on the other version.
 Hope you enjoy it and feel free to contact me about anything! <br />
 
 For the html, css, js version go to:

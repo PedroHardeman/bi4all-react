@@ -17,7 +17,6 @@ export const Winners = () => {
 			const w2 = getUserDetails(2);
 			const w3 = getUserDetails(3)
 			Promise.all([w1, w2, w3]).then(result => {
-				console.log(result)
 				setWinners(result);
 				setLoading(false);
 			})

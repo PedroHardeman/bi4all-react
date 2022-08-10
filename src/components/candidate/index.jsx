@@ -1,7 +1,6 @@
 import { Button, Card, CardActions, CardContent, Typography } from "@mui/material";
-import React from "react";
 
-export const Content = ({id, name}) => {
+export const Candidate = ({id, name}) => {
   return (
 		<Card>
       <CardContent>

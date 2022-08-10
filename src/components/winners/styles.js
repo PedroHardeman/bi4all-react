@@ -1,9 +1,12 @@
-import { Grid } from "@mui/material";
+import { Grid, Typography } from "@mui/material";
 import styled from "styled-components";
 
 export const StyledDiv = styled.div`
-	width: 100%;
-	height: 100%
+	height: calc(100% - 80px);
+	display: flex;
+	padding: 15px;
+	flex-direction: column;
+	align-items: center;
 `;
 
 export const StyledGrid = styled(Grid)`
@@ -12,3 +15,8 @@ export const StyledGrid = styled(Grid)`
 	align-items: center;
 	align-content: center;
 `;
+
+export const StyledTypography = styled(Typography)`
+	display: flex;
+	align-items: center;
+`
